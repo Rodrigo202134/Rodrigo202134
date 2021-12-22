@@ -32,7 +32,7 @@
 
 <p align="left" style="background:yellow">
 
-<a href="https://linkedin.com/in/rodrigo cintra domingos da silva" target="_blank">
+<a href="https://linkedin.com/in/rodrigo-cintra-domingos-da-silva-a51127228" target="_blank">
   <img align="center" src="https://img.shields.io/badge/--05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/digao_2.7" target="_blank">
