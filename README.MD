@@ -1,7 +1,6 @@
 
 <img align="right" height="690em" src="https://raw.githubusercontent.com/gist/Rodrigo202134/3f1872938e2994a94c9579be1ef57dc6/raw/34ee262d8c7f3fa74687f469f085dc832aaac424/githubcard.svg"/>
 <h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Rodrigo Cintra</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Começado uma nova jornada nesta área de Programação
 
