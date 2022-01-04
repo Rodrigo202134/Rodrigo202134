@@ -28,7 +28,7 @@
 
 
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨🏿✌🏿👉🏿 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 
