@@ -7,7 +7,7 @@
 - 🔭 Aprendendo com a [Rocketseat](https://github.com/Rocketseat)
 
 
-- 💬  **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬  **JavaScript, HTML, CSS, Node.JS**
 
 
 <br><br>
